@@ -1,6 +1,6 @@
 # Excel Sales Data Dashboard  
 ##Certificate Obtained by Coursera
-![Certificate Screenshot](![[image](https://github.com/user-attachments/assets/3f853211-b5ed-44a6-bf35-e2ab51ccea18](https://www.coursera.org/account/accomplishments/verify/TDK8HRHYQO3R))
+![Certificate Screenshot](![[image](https://github.com/SajeelHussain/Excel-Sales-Charts-Dashboards/blob/main/Certificate/Course%20Screenshot.png))
 ) 
 ## Overview  
 This project demonstrates how to analyze and visualize sales data effectively using Microsoft Excel. It includes a dynamic dashboard with various charts and tables, providing a comprehensive view of the data to support informed decision-making.  
